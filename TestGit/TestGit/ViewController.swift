@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("iOS 软件开发")
+        print("iOS 软件开发")
     }
 
 
