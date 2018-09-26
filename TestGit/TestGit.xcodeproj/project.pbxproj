@@ -15,6 +15,7 @@
 		1422F856215B5C0400EAE5B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1422F854215B5C0400EAE5B9 /* LaunchScreen.storyboard */; };
 		1422F861215B5C0400EAE5B9 /* TestGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1422F860215B5C0400EAE5B9 /* TestGitTests.swift */; };
 		1422F86C215B5C0400EAE5B9 /* TestGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1422F86B215B5C0400EAE5B9 /* TestGitUITests.swift */; };
+		8BEF3805215BB7B5005878D5 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BEF3804215BB7B5005878D5 /* TestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1422F867215B5C0400EAE5B9 /* TestGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1422F86B215B5C0400EAE5B9 /* TestGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestGitUITests.swift; sourceTree = "<group>"; };
 		1422F86D215B5C0400EAE5B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BEF3804215BB7B5005878D5 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				1422F848215B5C0300EAE5B9 /* AppDelegate.swift */,
 				1422F84A215B5C0300EAE5B9 /* ViewController.swift */,
+				8BEF3804215BB7B5005878D5 /* TestViewController.swift */,
 				1422F84C215B5C0300EAE5B9 /* Main.storyboard */,
 				1422F852215B5C0400EAE5B9 /* Assets.xcassets */,
 				1422F854215B5C0400EAE5B9 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				1422F84B215B5C0300EAE5B9 /* ViewController.swift in Sources */,
 				1422F849215B5C0300EAE5B9 /* AppDelegate.swift in Sources */,
+				8BEF3805215BB7B5005878D5 /* TestViewController.swift in Sources */,
 				1422F851215B5C0300EAE5B9 /* TestGit.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
