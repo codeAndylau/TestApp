@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         print("android 软件开发")
         print("android 软件开发")
         print("a234567890")
+        print("interestingi= 10")
     }
 
 
